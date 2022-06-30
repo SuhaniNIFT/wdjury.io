@@ -1,0 +1,65 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #EF798E;
+    color: #000000;
+    border-top: medium solid #439AA5;
+    border-radius: 8px;
+}
+.container-fluid .container .jumbotron {
+    background-image: -webkit-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    color: #FFFFFF;
+}
+.jumbotron .lead .btn.btn-primary.btn-lg {
+    background-color: #97CEDB;
+}
+.container-fluid .container #accordion1 {
+    color: #32485C;
+}
+.container-fluid .container .row {
+    color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: #FFFFFF;
+    background-color: #96CEDB;
+}
+.container-fluid .container footer {
+
+}
+
+
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #000000;
+}
+
+
+
+
+tr td h1 {
+    color: #FFFFFF;
+}
+footer table tr {
+    background-image: -webkit-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100.00%);
+}
+.row .col-lg-4 footer {
+    background-image: url(url);
+}
+.container-fluid .container .row {
+}
+.container .row .col-lg-12 {
+    background-color: #FFFFFF;
+}
+.container .row .col-lg-8 {
+    background-image: -webkit-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(151,206,219,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
